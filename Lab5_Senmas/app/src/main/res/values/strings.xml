@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab5_Senmas</string>
+    <string name="content_placeholder">Content goes here!</string>
+    <string name="stop_timer">Stop</string>
+    <string name="reset_timer">Reset</string>
+    <string name="start_timer">Start</string>
+    <string name="drawer_timer">Timer</string>
+    <string name="drawer_home">Home</string>
+    <string name="xml_layout">XML Layout</string>
+    <string name="drawer_buttons">Buttons</string>
+    <string name="drawer_calculator">Calculator</string>
+    <string name="drawer_recycler_view">Recycler View</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enter_login">Enter login</string>
+    <string name="drawer_login">Log In</string>
+</resources>
